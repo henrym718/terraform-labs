@@ -1,5 +1,4 @@
-
-#Crear el grupo de seguridad de la instancia de aws
+#Crear el grupo de seguridad de la instancia de aws.
 resource "aws_security_group" "security_group_ec2" {
   name = "security_group_ec2"  
       

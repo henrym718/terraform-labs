@@ -8,5 +8,5 @@ resource "aws_instance" "ec2fromterraform" {
    tags = {
     Name: "aws_instance"
     }
-    #user_data = Puedo ingresar algun script de ejecucion
+    #user_data = Puedo ingresar algun script de ejecucion//
 }

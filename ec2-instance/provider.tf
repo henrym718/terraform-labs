@@ -1,3 +1,4 @@
+#iniciar terrafon con proveedor
 terraform {
   required_providers {
     aws = {
